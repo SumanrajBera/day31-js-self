@@ -1,6 +1,5 @@
 # DOM Manipultaion
-- What is DOM? How it represents the HTML structure?
-<br>
+- What is DOM? How it represents the HTML structure?\
 **Answer:** DOM stands for Document Object Model which is a tree like structure created by our browser when a HTML page loads. Every tag in the HTML page is a node of the tree.
 
 - Types of Node in DOM Tree
